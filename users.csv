@@ -1,0 +1,6 @@
+id,username,email,password,role
+1,user,,user123,user
+2,admin,,admin123,admin
+3,petani,,petani123,user
+4,user1,,user123,user
+5,user3,user3@gmail.com,user1234,user
